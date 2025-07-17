@@ -1,4 +1,4 @@
 ## Features
 
--Has no features
--Just a simple calculator
+- Has no features
+- Just a simple calculator
