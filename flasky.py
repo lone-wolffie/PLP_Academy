@@ -1,0 +1,1 @@
+print("Love is a scam, but math is forever! Let's do some calculations! 💖")
